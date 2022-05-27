@@ -1,0 +1,56 @@
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.exe
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.deps.json
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.json
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.dev.json
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfo.cs
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Users\micha\Desktop\Informatyka\Platfomy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.genruntimeconfig.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.exe
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.deps.json
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.json
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.dev.json
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfo.cs
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Informatyka\Platfomy_Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.genruntimeconfig.cache
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.exe
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.deps.json
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.json
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.dev.json
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.AssemblyReference.cache
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfoInputs.cache
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfo.cs
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.CoreCompileInputs.cache
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.genruntimeconfig.cache
+C:\Temp\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.exe
+C:\Temp\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.deps.json
+C:\Temp\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.json
+C:\Temp\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.runtimeconfig.dev.json
+C:\Temp\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Temp\Lab1_CS\bin\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.AssemblyReference.cache
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfoInputs.cache
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.AssemblyInfo.cs
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.csproj.CoreCompileInputs.cache
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.dll
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.pdb
+C:\Temp\Lab1_CS\obj\Debug\netcoreapp3.1\Lab1_CS.genruntimeconfig.cache
