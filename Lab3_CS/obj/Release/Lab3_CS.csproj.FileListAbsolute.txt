@@ -1,0 +1,7 @@
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\bin\Release\Lab3_CS.exe.config
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\bin\Release\Lab3_CS.exe
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\bin\Release\Lab3_CS.pdb
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\obj\Release\Lab3_CS.csproj.AssemblyReference.cache
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\obj\Release\Lab3_CS.csproj.CoreCompileInputs.cache
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\obj\Release\Lab3_CS.exe
+C:\Users\Michał Kuprianowicz\Desktop\Informatyka\Platformy Technologiczne\Lab3_CS\obj\Release\Lab3_CS.pdb
